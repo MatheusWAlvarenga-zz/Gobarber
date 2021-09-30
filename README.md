@@ -2,8 +2,6 @@
 
 <div align="center">
 <img src="https://github.com/MatheusWAlvarenga/Gobarber/blob/main/img/Logo.png?raw=true" width = "400px"/>
-
-  
 </div>
 
 #### Definition:
