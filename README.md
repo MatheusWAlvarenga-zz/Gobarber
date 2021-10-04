@@ -19,5 +19,5 @@ Including automated testing, continuous integration, publishing to stores, and a
 #### Template:
 
 <div align="center">
-<img src="https://repository-images.githubusercontent.com/412169286/f0e2eb21-a647-4d07-9334-8efa3d6419e2" width = "800px"/>
+<img src="https://repository-images.githubusercontent.com/412169286/c322a53e-17cd-43ff-ada5-725aff34ab05" width = "800px"/>
 </div>
